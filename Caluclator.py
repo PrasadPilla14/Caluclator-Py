@@ -12,4 +12,4 @@ elif operation == '*':
 elif operation == '/':
     print("Result:", num1 / num2)
 else:
-    print("Invalid operation")
+    print("Invalid operation"
